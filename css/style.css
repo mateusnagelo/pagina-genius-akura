@@ -90,6 +90,10 @@ body {
     background-color: #e79954;
     color: rgb(101, 98, 98);
 }
+.titled.title.is-1.mb-6.tittle {
+    color: white;
+}
+
 .text-informativo {
     line-height: 1, 5rem;
     letter-spacing: .03rem;
@@ -123,4 +127,7 @@ body {
 .hero.is-medium.has-text-centered.menu1{ 
     background-color: #e79954;
     color: rgb(121, 118, 118);
+}
+.titled.title.is-1.mb-6.tittle2{
+    color: white;
 }
